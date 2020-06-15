@@ -236,7 +236,6 @@
 				<sonar.projectKey>am-firnas_Noticeboard-copy</sonar.projectKey>
   				<sonar.organization>am-firnas</sonar.organization>
   				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-                                <sonar.login>3d3d02715d6f4380006d0317961e122f21f74565</sonar.login>
 			</properties>
 			<activation>
 				<activeByDefault>false</activeByDefault>
