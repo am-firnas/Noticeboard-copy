@@ -230,9 +230,13 @@
 				<sonar.sources>.</sonar.sources>
 				<sonar.inclusions>src/main/java/**,src/main/resources/**</sonar.inclusions>
 				<sonar.exclusions>${code.coverage.exclusions}</sonar.exclusions>
-				<sonar.projectKey>wkrzywiec_NoticeBoard</sonar.projectKey>
+<!-- 				<sonar.projectKey>wkrzywiec_NoticeBoard</sonar.projectKey>
 				<sonar.organization>wkrzywiec</sonar.organization>
-				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+				<sonar.host.url>https://sonarcloud.io</sonar.host.url> -->
+				<sonar.projectKey>am-firnas_Noticeboard-copy</sonar.projectKey>
+  				<sonar.organization>am-firnas</sonar.organization>
+  				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                                <sonar.login>3d3d02715d6f4380006d0317961e122f21f74565</sonar.login>
 			</properties>
 			<activation>
 				<activeByDefault>false</activeByDefault>
